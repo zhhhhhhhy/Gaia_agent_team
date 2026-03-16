@@ -1,0 +1,5 @@
+Task 384d0dd8: Answer "4192" written to outputs/384d0dd8.txt. Reasoning log: Compound search with constraints (MW ≤ 100 g/mol, 6 heavy atoms, 1 H-bond acceptor, complexity 10-15) found HEXANE. Shared gene-chemical co-occurrences for CYP2B6 and CYP2E1 transformations in PubChem yielded heaviest as Midazolam (CID 4192).
+
+Task de9887f5: Answer "22" written to outputs/de9887f5.txt. Reasoning log: Omar Valencia-Mendez 2017 shrimp TL from PDF (4.5 cm), G. Curt Fiedler 2002 sea star fed TL (1 cm), percentage calculated: 1/4.5*100 ≈ 22%.
+
+Task 983bba7c: Answer "Mice\nRats" written to outputs/983bba7c.txt. Reasoning log: Cross-referenced animals in Lagkouvardos and Tapia Hafnia alvei papers and confirmed presence in the 2021 multicenter study cited on Wikipedia; only Mice and Rats matched across all three sources.

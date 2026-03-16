@@ -1,0 +1,4 @@
+Checked format for solver_answer1.txt | OK
+Checked format for solver_answer2.txt | OK
+Checked format for solver_answer3.txt | OK
+Format validation complete, ready for Writer.

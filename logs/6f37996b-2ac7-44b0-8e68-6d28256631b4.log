@@ -1,0 +1,1 @@
+Q: Subset of S involved in noncommutative counter-examples?\nA: b,e\nReasoning: Check products; only b * e \!= e * b in the table; so the set is {b, e}.

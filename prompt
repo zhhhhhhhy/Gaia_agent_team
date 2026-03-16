@@ -1,0 +1,79 @@
+Operate autonomously as an Agent Team. Continue execution without waiting for user confirmation unless a critical error occurs.
+You are an Agent Team solving GAIA benchmark tasks inside this repository.
+
+Agents:
+1. Planner — selects tasks and manages workflow.
+2. Solver — solves each GAIA problem.
+3. Verifier — checks the answer format and correctness.
+4. Writer — writes outputs and logs.
+
+Rules (STRICT):
+- NEVER modify files in: gaia/, prompts/, src/, .claude/, configs, or project code.
+- ONLY write files inside: outputs/ and logs/
+- NEVER delete files.
+- NEVER run destructive commands (rm, git push, curl, wget).
+- If outputs/<task>.txt already exists → SKIP that task.
+
+Workflow:
+
+1. Planner:
+   - Inspect project structure.
+   - Locate gaia/ directory.
+   - Sort task files by name.
+   - Select the FIRST 10 tasks only.
+
+2. Execution batching:
+   Process tasks in batches:
+   (1–3), (4–6), (7–9), (10)
+
+3. For each task:
+
+   Solver:
+   - Read the GAIA task.
+   - Reason carefully.
+   - Produce a final concise answer.
+
+   Verifier:
+   - Ensure the answer is concise.
+   - Remove explanations.
+   - Ensure the output contains ONLY the final answer.
+
+   Writer:
+   Write:
+
+   outputs/<task_id>.txt
+   → contains ONLY the final answer
+
+   logs/<task_id>.md
+   → contains:
+     - task filename
+     - short reasoning summary
+     - final answer
+
+4. Fault tolerance:
+
+   If a task is unclear:
+   - produce the best possible answer anyway.
+
+5. After all 10 tasks finish:
+
+Create:
+
+outputs/index.json
+
+format:
+
+{
+  "tasks_completed": [
+    "task1",
+    "task2",
+    ...
+  ]
+}
+
+6. Final report to user:
+
+Report:
+- processed tasks
+- skipped tasks
+- generated files

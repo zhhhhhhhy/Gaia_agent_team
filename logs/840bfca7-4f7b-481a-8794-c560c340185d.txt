@@ -1,0 +1,2 @@
+Reasoning: Searched for the specified Universe Today article by Carolyn Collins Petersen (June 6, 2023). Located the linked scientific paper at the bottom of the article. In the PDF's acknowledgments, R. G. Arendt's support is listed under NASA award number 80NSSC22K0079.
+Verification: Output is `<task_id>\n<answer>`.

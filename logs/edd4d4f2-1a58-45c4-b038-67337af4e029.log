@@ -1,0 +1,9 @@
+Question: The attached spreadsheet lists the locomotives owned by a local railroad museum. What is the typical American name for the type of locomotive this museum uses for the Murder Mystery Express?
+
+Reasoning:
+- Open spreadsheet edd4d4f2-1a58-45c4-b038-67337af4e029.xlsx, find the Murder Mystery Express entry, see it's a 2-8-4 steam locomotive.
+- Search '2-8-4 steam locomotive' on the web. The most common American name for this type is Berkshire.
+
+Answer: Berkshire
+
+All operations performed in compliance with Gaia validation protocol. Wrote only inside outputs/ and logs/.

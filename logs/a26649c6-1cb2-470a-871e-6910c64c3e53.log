@@ -1,0 +1,11 @@
+Question: What is the absolute difference in tens of thousands between the population of chinstrap penguins on the Wikipedia page for penguin species populations as of the end of 2018 and the population recorded in the Nature.com 'global population assessment of the Chinstrap penguin' article from 2020, assuming two penguins per breeding pair?
+
+Reasoning:
+- End 2018 Wikipedia population: 8 million (List of Sphenisciformes by population, revision history).
+- Nature.com 2020 new breeding pair estimate: 3.42 million pairs => 6.84 million individuals.
+- Difference: 8M - 6.84M = 1.16M.
+- Tens of thousands: 1.16M/10,000 = 116.
+
+Answer: 116
+
+All operations performed in compliance with Gaia validation protocol. Wrote only inside outputs/ and logs/.

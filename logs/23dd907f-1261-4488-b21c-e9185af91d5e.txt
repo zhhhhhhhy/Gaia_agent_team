@@ -1,0 +1,2 @@
+Reasoning: The poem "Father Son and Holy Ghost" by Audre Lorde features indented lines in the second stanza as confirmed by multiple reputable sources (e.g., Poetry Foundation).
+Verification: The answer format is `<task_id>\n<answer>`, which is adhered to.

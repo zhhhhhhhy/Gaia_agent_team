@@ -1,0 +1,1 @@
+Question: Quiz scoring image calculation.\nAnswer: 85

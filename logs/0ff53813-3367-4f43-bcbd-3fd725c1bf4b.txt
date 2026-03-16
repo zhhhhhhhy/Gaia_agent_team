@@ -1,0 +1,1 @@
+Step-by-step reasoning:\nFind the two-word type of model both Manash Pratim Kashyap and PS Fader used in customer retention studies (2018-2019).\n1. Kashyap: "discrete time beta geometric model"\n2. Fader: "shifted-beta-geometric"\n3. Common two words: "beta geometric"\nAnswer: beta geometric.

@@ -1,0 +1,1 @@
+Step-by-step reasoning:\nMaximum length in meters of #9 (Blacktip Reef) according to Monterey Bay Aquarium website.\n1. Check National Geographic channel for first short.\n2. #9 is Blacktip Reef.\n3. Monterey Bay Aquarium website says maximum length is 2 meters.\nAnswer: 2.

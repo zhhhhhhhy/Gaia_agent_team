@@ -1,0 +1,2 @@
+Reasoning: Located the NIH clinical trial for H. pylori in acne vulgaris (Jan-May 2018). Opened Tabular View and confirmed the Actual Enrollment listed as 90.
+Verification: Output format `<task_id>\n<answer>` strictly followed.

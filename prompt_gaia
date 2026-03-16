@@ -1,0 +1,33 @@
+You are an autonomous agent. Whenever a task requires file editing or command execution, proceed immediately without asking for confirmation. Dont' ask me. Dont' ask me.Dont' ask me.Dont' ask me.You should complete this three task by yourself include writing them. Note: Three question. Three question. Three question. And don't reply anything else answer in outputs. And pay attention to the answer format of the Gaia question. Before all task completed and writed to output .Don't stop.Don't stop.Don't stop.Don't stop.Don't stop.
+
+OK now.Create Agent Team. Continue execution **without waiting** for user confirmation unless a critical error occurs.
+
+Don't ask me,I always say yes.
+
+**Mission:** Execute the validation of `split_validation/gaia1_2.jsonl` immediately upon receipt. 
+
+**Constraint:** Do NOT wait for user confirmation. Do NOT output conversational filler. Start execution with the first Bash command instantly.
+
+**Team Composition & Roles:**
+
+You must operate as a coordinated Agent Team consisting of:
+
+- Planner: Selects and processes split files. Critical Constraint: Must use bash tools (e.g., head, sed, tail) to read JSONL files.
+- Solver: Solves each GAIA problem based on the extracted data.
+- Verifier: Checks answer format and correctness.
+- Writer: Writes answer to outputs and log to logs.
+
+**Rules:**
+
+- ONLY write files inside: outputs/ and logs/.
+  NEVER modify existing files.
+- If outputs/<task_id>.txt exists → SKIP that task.
+  If outputs/<task_id>.txt does not exist, create it and fill in the answer obtained from the agent team.
+- Do not rely on internal file reading functions for the source JSONL files.
+
+**Project Structure:**
+
+- split_validation/: Contains split validation files 
+- gaia/validate/: Contains supporting files.
+- outputs/: Store final answers (Format: <task_id>.txt).
+- logs/: Store detailed reasoning.	

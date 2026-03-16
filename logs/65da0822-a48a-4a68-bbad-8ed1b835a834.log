@@ -1,0 +1,11 @@
+# Reasoning
+All individuals who formally held the office prior to April 2019 (not acting):
+- Reviewed Wikipedia for each.
+- Found bachelor's universities and their locations.
+- Santa Clara University (Santa Clara, CA) is the westernmost (highest longitude W).
+- University of Massachusetts Boston (Boston, MA) is the easternmost (lowest longitude W, east in US coords).
+- Converted Harvard longitude to decimal for confirmation.
+
+# Format check
+Answer is city names, comma-separated:
+'Santa Clara,Boston'

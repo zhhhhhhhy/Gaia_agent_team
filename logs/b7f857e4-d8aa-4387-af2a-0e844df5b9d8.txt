@@ -1,0 +1,1 @@
+Question: Attached image contains a Python script; solve C++ code problem on array.\nAnswer: 120

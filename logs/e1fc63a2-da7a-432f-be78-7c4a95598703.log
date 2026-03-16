@@ -1,0 +1,1 @@
+Task: If Eliud Kipchoge could maintain his record-making marathon pace indefinitely, how many thousand hours would it take him to run the distance between the Earth and the Moon its closest approach?\nAnswer: 17\n\nTrace:\n- Kipchoge pace: 4 min 37 sec/mile (277 s) = 0.07694 h/mile\n- Moon perigee: 225623 miles\n- Total: 225623 * 0.07694 ≈ 17358 h\n- Nearest 1000: 17000 h\n

@@ -1,0 +1,1 @@
+BERT base encoder has 12 blocks, Attention Is All You Need encoder has 6 layers, the difference is 6. Reasoning steps in logs.

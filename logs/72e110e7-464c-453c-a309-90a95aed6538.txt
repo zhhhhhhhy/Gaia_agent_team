@@ -1,0 +1,5 @@
+1. Located DDC 633 section on BASE (Bielefeld University Library search system).
+2. Navigated to Unknown Language results for 2020.
+3. Compared listed articles and their flags.
+4. All except one had the same/similar flags; the unique flag belonged to an article from Guatemala.
+5. Cross-checked institution info to confirm country.

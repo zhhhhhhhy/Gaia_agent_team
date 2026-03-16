@@ -1,0 +1,3 @@
+- Evaluated truth tables for each compound proposition using annotation steps.
+- All statements except the fifth are tautologies (hold under all assignments), including De Morgan's laws, contraposition, and conditional equivalence.
+- The fifth fails for inputs (A: False, B: True), hence it is not equivalent.

@@ -1,0 +1,2 @@
+1. Ran attached Python code
+2. Output result: 0

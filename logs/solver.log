@@ -1,0 +1,17 @@
+[73c1b9fe-ee1d-4cf4-96ca-35c08f97b054] Reasoning:
+- USGS records of the American Alligator show its sightings west of Texas.
+- Following the annotator steps (see problem content), the first dot appears west of Texas in 1954 on the USGS animated map.
+- Verified by moving slider and checking for recorded sightings, as described.
+Answer: 1954
+
+e2d69698-bc99-4e85-9880-67eaccd66e6c Reasoning:
+- Wikipedia and CBS Survivor cast pages used to list winners and birthdays.
+- For all 40 winners (plus repeat wins), no discrepancies found between Wikipedia and Fandom.
+- Only Michele Fitzgerald (Season 32) is listed with a birthday in May.
+Answer: Michele Fitzgerald
+
+a56f1527-3abf-41d6-91f8-7296d6336c3f Reasoning:
+- August 2021 Vogue cover shows Washington Monument behind trees.
+- Wikipedia states monument height is 555 ft.
+- Conversion: 555 ft ÷ 3 ft/yd = 185 yd (rounded to nearest yard).
+Answer: 185

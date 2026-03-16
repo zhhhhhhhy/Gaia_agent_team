@@ -1,0 +1,14 @@
+Task: c3a79cfe-8206-451f-aca8-3fec8ebe51d3
+Question:
+The year is 2022. I am at the National Air and Space Museum east of the Potomac River. I want to go to Fire Station 301 DCA ARFF using the metro. I go in the wrong direction and end up at the station closest to Cleveland Elementary School. How many metro stations am I away from my original destination if I don't change lines?
+
+Solver Reasoning:
+- Located all relevant stations via Google Maps, DC Metro Map, and question details.
+- Determined route: Shaw-Howard Univ to Ronald Reagan Washington National Airport all on the yellow line, counting each station.
+- Answer: 8 stations, confirmed by stepwise map navigation and counting.
+
+Verification:
+- The answer format is a numerical integer as required.
+- Steps and answer match GAIA instructions.
+
+Writer Log: outputs/c3a79cfe-8206-451f-aca8-3fec8ebe51d3.txt written successfully.

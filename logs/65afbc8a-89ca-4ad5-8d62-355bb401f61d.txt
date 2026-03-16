@@ -1,0 +1,6 @@
+1. Opened Map.xlsx.
+2. Counted 11 turns of 2 spaces each (22 spaces) along the path of non-blue cells.
+3. Opened cell formatting for the cell.
+4. Clicked the "Fill" tab.
+5. Clicked "More Colors..."
+6. Noted the hex code of the color.

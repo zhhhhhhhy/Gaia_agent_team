@@ -1,0 +1,10 @@
+Selected first three GAIA task IDs from split_validation/level3_part1.jsonl:
+1. 676e5e31-a554-4acc-9286-b60d90a92d26
+2. bec74516-02fc-48dc-b202-55e78d0e17cf
+3. 00d579ea-0889-4fd9-a771-2c8d79835c8d
+
+Reasoning:
+- Extracted first three entries using line-limited read
+- Each entry contains a distinct "task_id"
+- IDs uniquely identify GAIA tasks/problems
+- Only IDs reported as directed, no conversational output

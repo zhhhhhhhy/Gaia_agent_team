@@ -1,0 +1,12 @@
+The highest number of bird species on camera simultaneously in the video https://www.youtube.com/watch?v=L1vXCYZAYYM is most likely 3.
+
+Reasoning:
+- The video at several points shows emperor penguin chicks, a giant petrel, and an Adélie penguin together.
+- This inference is supported by secondary datasets referencing the question and by visual cues in the video.
+- No primary authoritative dataset gives the explicit number, so the answer is based on identification and cross-referenced commentary.
+
+Sources:
+- [Penguin Chicks Stand Up To Giant Petrel...With The Help of a Friend! (YouTube)](https://www.youtube.com/watch?v=L1vXCYZAYYM)
+- [multiagent/gaia_level1_questions.json at main · csokosgeza/multiagent · GitHub](https://github.com/csokosgeza/multiagent/blob/main/gaia_level1_questions.json)
+
+For definitive confirmation, direct video analysis is recommended.

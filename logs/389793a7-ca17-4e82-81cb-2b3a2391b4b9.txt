@@ -1,0 +1,1 @@
+Coverage: Each tower covers 8 miles. First: positions 1-8, second: covers next uncovered houses, third: last positions. No less than 3 towers covers all. Answer: 3.

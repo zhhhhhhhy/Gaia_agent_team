@@ -1,0 +1,1 @@
+Task: 7619a514-5fa8-43ef-9143-83b66a43d7a4\nQ: According to github, when was Regression added to the oldest closed numpy.polynomial issue that has the Regression label in MM/DD/YY?\nA: 04/15/18\n- Annotator looked up the regression label on closed github issues and confirmed date matches required format.

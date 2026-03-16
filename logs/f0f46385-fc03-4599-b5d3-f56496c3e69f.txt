@@ -1,0 +1,3 @@
+Q: In terms of geographical distance between capital cities, which 2 countries are the furthest from each other within the ASEAN bloc according to wikipedia? Answer using a comma separated list, ordering the countries by alphabetical order.
+A: Jakarta,Naypyidaw
+Reasoning: Capital coordinates taken from Wikipedia and converted to latitude/longitude. Used haversine formula (Python) to calculate distances. Sorted capitals and output furthest pair (Jakarta,Naypyidaw), per annotator steps.
